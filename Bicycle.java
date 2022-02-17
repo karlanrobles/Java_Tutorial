@@ -1,4 +1,4 @@
-class Bicycle{
+class Bicycle {
 	
 	int cadence = 0;
 	int speed = 0;
@@ -26,3 +26,10 @@ class Bicycle{
 			" gear:" + gear);
 	}
 }
+
+class MountainBike extends Bicycle {
+	
+	//new fields and methods
+
+}
+
